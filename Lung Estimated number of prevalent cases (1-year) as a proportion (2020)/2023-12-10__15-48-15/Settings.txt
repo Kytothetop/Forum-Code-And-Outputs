@@ -1,0 +1,13 @@
+#range of (0,1)
+Test_To_All = 0.2
+#18 to 23
+numTargetCol = 23
+#Image DPI
+ImageQuality = 240
+#Normalization method: -1 for None, 0 for Max-Min Scaling, 1 for Z-Score Scaling
+normMethod = 1
+
+Sunday 10 December, 2023
+Started at 10/12/2023 at 15:48:15
+Finished at 11/12/2023 at 11:11:58
+Time used: 19:23:43.384338
