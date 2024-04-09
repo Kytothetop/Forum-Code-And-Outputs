@@ -200,8 +200,8 @@ pyrightconfig.json
 
 !Settings.txt
 !requirements.txt
-Improv2.ipynb
-Improv3.ipynb
+# Improv2.ipynb
+# Improv3.ipynb
 feature_summary2.xlsx
 
 temp/
