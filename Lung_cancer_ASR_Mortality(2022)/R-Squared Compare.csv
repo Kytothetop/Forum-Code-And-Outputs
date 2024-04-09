@@ -1,0 +1,6 @@
+Model Name,R-Squared Plot,Train,Test
+Support Vector Machine,./Lung_cancer_ASR_Mortality(2022)\2023-11-15__20-18-42\Graph/feature R2 Plot Support Vector Machine_2023-11-15__20-18-42.png,0.7438053254587329,0.7057377688785882
+Decision Tree,./Lung_cancer_ASR_Mortality(2022)\2023-11-15__20-18-42\Graph/feature R2 Plot Decision Tree_2023-11-15__20-18-42.png,0.8450129810549052,0.25609564088772463
+Random Forest,./Lung_cancer_ASR_Mortality(2022)\2023-11-15__20-18-42\Graph/feature R2 Plot Random Forest_2023-11-15__20-18-42.png,0.8737306698948446,0.7115691286446172
+XGBoost,./Lung_cancer_ASR_Mortality(2022)\2023-11-15__20-18-42\Graph/feature R2 Plot XGBoost_2023-11-15__20-18-42.png,0.9999947534564526,0.6261608487191319
+Kernel Ridge,./Lung_cancer_ASR_Mortality(2022)\2023-11-15__20-18-42\Graph/feature R2 Plot Kernel Ridge_2023-11-15__20-18-42.png,0.7589469731102,0.7067369302701605

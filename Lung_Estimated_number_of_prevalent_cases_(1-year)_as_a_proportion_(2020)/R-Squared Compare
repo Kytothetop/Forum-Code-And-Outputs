@@ -1,0 +1,6 @@
+Model Name,R-Squared Plot,Train,Test
+Support Vector Machine,./Lung_Estimated_number_of_prevalent_cases_(1-year)_as_a_proportion_(2020)\2023-11-16__14-06-16\Graph/feature R2 Plot Support Vector Machine_2023-11-16__14-06-16.png,0.7263655068123402,0.729653716663776
+Decision Tree,./Lung_Estimated_number_of_prevalent_cases_(1-year)_as_a_proportion_(2020)\2023-11-16__14-06-16\Graph/feature R2 Plot Decision Tree_2023-11-16__14-06-16.png,0.9141104106053932,0.7519890696272546
+Random Forest,./Lung_Estimated_number_of_prevalent_cases_(1-year)_as_a_proportion_(2020)\2023-11-16__14-06-16\Graph/feature R2 Plot Random Forest_2023-11-16__14-06-16.png,0.9044609245214676,0.8252494989415473
+XGBoost,./Lung_Estimated_number_of_prevalent_cases_(1-year)_as_a_proportion_(2020)\2023-11-16__14-06-16\Graph/feature R2 Plot XGBoost_2023-11-16__14-06-16.png,0.9849909380917724,0.830437225090875
+Kernel Ridge,./Lung_Estimated_number_of_prevalent_cases_(1-year)_as_a_proportion_(2020)\2023-11-16__14-06-16\Graph/feature R2 Plot Kernel Ridge_2023-11-16__14-06-16.png,0.8352692371763533,0.7547619828371732

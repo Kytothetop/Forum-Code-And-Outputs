@@ -1,0 +1,19 @@
+,feature,feature_importance
+0,Parent Location,0.002
+1,GHG Emissions,0.04
+2,Obesity Rate,0.008
+3,PM2.5,0.005
+4,Mean BMI,0.002
+5,Life Expectancy,0.045
+6,Smoking Prevalence,0.022
+7,Vegetable Consumption,0.05
+8,Poultry Consumption,0.006
+9,Beef Consumption,0.004
+10,Sheep & Goat Consumption,0.009
+11,Pig Consumption,0.244
+12,Other Meat Consumption,0.002
+13,Fish & Seafood Consumption,0.004
+14,Fruit Consumption,0.003
+15,Median Age,0.526
+16,Share without Improved Water,0.023
+17,Alcohol consumption per capita (liters of pure alcohol) (15+ years of age) (2018) ,0.004

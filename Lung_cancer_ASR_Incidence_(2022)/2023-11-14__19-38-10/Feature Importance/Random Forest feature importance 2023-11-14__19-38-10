@@ -1,0 +1,19 @@
+,feature,feature_importance
+0,Parent location,0.02
+1,Green house gases emissions per capita (tonnes CO2e) (2012),0.0
+2,Obesity rate of adult (2016),0.01
+3,Pm2.5ug/m3 (2019),0.0
+4,Mean BMI 18+years (2016),0.0
+5,life expectancy at birth (2019),0.03
+6,Daily smoking prevalence (2012),0.06
+7,Vegetable consumption-per-capita (2019),0.03
+8,Poultry kgpercapita(2019),0.01
+9,Beef kgpercapit(2019),0.0
+10,Sheep & goat Kgpercapita(2019),0.0
+11,Pig Kgpercapita(2019),0.01
+12,Other meat Kgpercapita(2019),0.0
+13,Fish & seafood Kgpercapita (2019),0.01
+14,Fruit Kgpercapita (2019),0.0
+15,Median age (2019),0.78
+16,Share without improved water (2019),0.02
+17,"Alcohol consumption per capita (liters of pure alcohol, 15+ years of age) (2018) ",0.01

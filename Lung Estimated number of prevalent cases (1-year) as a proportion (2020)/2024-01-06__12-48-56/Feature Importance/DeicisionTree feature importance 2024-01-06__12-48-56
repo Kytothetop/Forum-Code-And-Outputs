@@ -1,0 +1,19 @@
+,feature,feature_importance
+0,Parent Location,0.015
+1,GHG Emissions,0.012
+2,Obesity Rate,0.001
+3,PM2.5,0.0
+4,Mean BMI,0.0
+5,Life Expectancy,0.049
+6,Smoking Prevalence,0.0
+7,Vegetable Consumption,0.0
+8,Poultry Consumption,0.0
+9,Beef Consumption,0.0
+10,Sheep & Goat Consumption,0.0
+11,Pig Consumption,0.101
+12,Other Meat Consumption,0.0
+13,Fish & Seafood Consumption,0.0
+14,Fruit Consumption,0.0
+15,Median Age,0.814
+16,Share without Improved Water,0.0
+17,Alcohol Consumption,0.008
