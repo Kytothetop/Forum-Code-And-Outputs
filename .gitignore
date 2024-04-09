@@ -198,8 +198,8 @@ pyrightconfig.json
 
 *.zip
 
-! settings.txt
-! requirements.txt
+!**/ settings.txt
+!**/ requirements.txt
 Improv2.ipynb
 Improv3.ipynb
 feature_summary2.xlsx
