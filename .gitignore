@@ -201,8 +201,9 @@ pyrightconfig.json
 
 !Settings.txt
 !requirements.txt
-Improv2.ipynb
-Improv3.ipynb
+!Improv2.ipynb
+!Improv3.ipynb
+!Improv4.ipynb
 # If I do use the code again, I will not push it. (Unless I'm legally allowed to.)
 feature_summary2.xlsx
 
