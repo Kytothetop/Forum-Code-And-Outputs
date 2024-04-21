@@ -185,6 +185,7 @@ poetry.toml
 pyrightconfig.json
 
 ### Text ###
+# I made a lot of unnecessary txt files, will only include some.
 *.doc
 *.docx
 *.msg
@@ -208,3 +209,7 @@ feature_summary2.xlsx
 temp/
 output_images/
 /Dataset/Template2.xlsx
+
+# Basically I also tested with other target outputs, but the "lung cancer" and "prevalence" was my final choice (Although you could try running the Jupyter Notebook with the other 5 Target Outputs).
+#Lung_cancer_ASR_Incidence_(2022)
+#Lung_cancer_ASR_Mortality(2022)
