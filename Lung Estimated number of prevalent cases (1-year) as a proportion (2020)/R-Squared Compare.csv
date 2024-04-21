@@ -1,6 +1,6 @@
 Model Name,R-Squared Plot,Train,Test
-Support Vector Machine,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-03-09__16-34-25\Graph\feature R2 Plot Support Vector Machine_2024-03-09__16-34-25.png,0.7263655068123402,0.729653716663776
-Decision Tree,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-03-09__16-34-25\Graph\feature R2 Plot Decision Tree_2024-03-09__16-34-25.png,0.9141104106053932,0.7519890696272546
-Random Forest,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-03-09__16-34-25\Graph\feature R2 Plot Random Forest_2024-03-09__16-34-25.png,0.9044609245214676,0.8252494989415473
-XGBoost,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-03-09__16-34-25\Graph\feature R2 Plot XGBoost_2024-03-09__16-34-25.png,0.9849909380917724,0.830437225090875
-Kernel Ridge,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-03-09__16-34-25\Graph\feature R2 Plot Kernel Ridge_2024-03-09__16-34-25.png,0.8352692371763533,0.7547619828371732
+Support Vector Machine,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-04-22__00-10-02\Graph\feature R2 Plot Support Vector Machine_2024-04-22__00-10-02.png,0.7263655068123402,0.729653716663776
+Decision Tree,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-04-22__00-10-02\Graph\feature R2 Plot Decision Tree_2024-04-22__00-10-02.png,0.9141104106053932,0.7519890696272546
+Random Forest,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-04-22__00-10-02\Graph\feature R2 Plot Random Forest_2024-04-22__00-10-02.png,0.9044609245214676,0.8252494989415473
+XGBoost,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-04-22__00-10-02\Graph\feature R2 Plot XGBoost_2024-04-22__00-10-02.png,0.9849909380917724,0.830437225090875
+Kernel Ridge,./Lung Estimated number of prevalent cases (1-year) as a proportion (2020)\2024-04-22__00-10-02\Graph\feature R2 Plot Kernel Ridge_2024-04-22__00-10-02.png,0.8352692371763533,0.7547619828371732
